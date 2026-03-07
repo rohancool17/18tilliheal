@@ -1,0 +1,7 @@
+services:
+  web:
+    build: .
+    ports:
+      - "7100:80"
+    restart: always
+    container_name: 18heal
