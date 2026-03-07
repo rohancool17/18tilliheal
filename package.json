@@ -1,0 +1,13 @@
+{
+  "name": "18heal",
+  "version": "1.0.0",
+  "description": "Static website for 18heal",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve web",
+    "dev": "npx serve web"
+  },
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
